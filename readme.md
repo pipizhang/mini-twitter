@@ -46,6 +46,6 @@ Open http://localhost:8000 in browser
         DocumentRoot "/var/sites/twitter/public"
     </VirtualHost>
 
-## 6. Some user for test
+### 6. Some user for test
     UserName: mason,jacob,madison,jackson,amelia,lily,samuel,zoe,luke,camila
     Password: 123456
