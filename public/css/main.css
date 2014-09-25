@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* global */
+html{
+    width: 1280px;
+    height:720px;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+html, html a { 
+    -webkit-font-smoothing: antialiased !important;
+}
+
+body{
+    width: 1280px;
+    height:720px;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.dn {display: none}
+
+
+/* page */
+#navigation {border-radius: 0}
+.page-header {margin: 0px 0 10px;}
+
+#postList span {margin-right: 5px;}
+#postList .name {font-weight: bold; font-size:12px;}
+#postList .username {color: #888; font-size: 12px;}
+#postList .pubtime {color: #888; font-size: 12px;}
+#postList .post p {padding: 0px 20px}
