@@ -8,7 +8,7 @@
 ## Installation
 ------------
 ### 1. Install dependencies via composer:
-Run composer command in "twitter" folder, assume componse install in /usr/local/bin
+    Run composer command in "twitter" folder, assume componse install in /usr/local/bin
     shell> /usr/local/bin/composer install
 
 ### 2. Change the folder permissions for the storage folder:
