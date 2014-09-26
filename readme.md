@@ -47,5 +47,5 @@ Open http://localhost:8000 in browser
     </VirtualHost>
 
 ### 6. Some user for test
-    UserName: mason,jacob,madison,jackson,amelia,lily,samuel,zoe,luke,camila
+    Users: peter,benjamin,johan,mason,jacob,madison,jackson,amelia,lily,samuel
     Password: 123456
